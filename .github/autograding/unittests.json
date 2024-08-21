@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test_first_output",
+    "function": "test_first_output",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_after_sorting_output",
+    "function": "test_after_sorting_output",
+    "timeout": 10,
+    "points": 1
+  }
+]
