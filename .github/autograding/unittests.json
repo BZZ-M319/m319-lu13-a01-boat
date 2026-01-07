@@ -3,12 +3,12 @@
     "name": "test_first_output",
     "function": "test_first_output",
     "timeout": 10,
-    "points": 1
+    "points": 4
   },
   {
     "name": "test_after_sorting_output",
     "function": "test_after_sorting_output",
     "timeout": 10,
-    "points": 1
+    "points": 4
   }
 ]
